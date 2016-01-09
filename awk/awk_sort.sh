@@ -1,0 +1,1 @@
+gawk -v fldName="Salary" -f sort.awk salary.txt

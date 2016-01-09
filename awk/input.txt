@@ -1,0 +1,6 @@
+a a b b b cc cccc cc cc cc a
+groups=001(group1),
+002(group2),
+003(group3)
+groups=004(group4),
+005(group5)
